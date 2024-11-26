@@ -2,6 +2,8 @@
 
 ![Cool](cool.png)
 
+https://github.com/user-attachments/assets/24dddd24-0405-46b4-9c31-d5496c401246
+
 ## Programs
 
 - i3
