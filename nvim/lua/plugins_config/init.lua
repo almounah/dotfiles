@@ -1,0 +1,8 @@
+require("plugins_config.telescope")
+require("plugins_config.treesitter")
+require("plugins_config.colorscheme")
+require("plugins_config.nvimtreeconfig")
+require("plugins_config.lualine")
+require("plugins_config.lspconfig")
+require("plugins_config.completion")
+require("plugins_config.gitconfig")
