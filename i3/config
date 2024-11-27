@@ -249,7 +249,7 @@ bindsym $mod+d exec "rofi -show drun"
 bindsym $mod+Tab exec "rofi -show window"
 
 ### Kitty as default terminal
-bindsym $mod+Return exec kitty
+bindsym $mod+Return exec alacritty
 
 ### Lock Screen Windows + L
 bindsym Mod4+l exec ~/.config/wallpaper/lock.sh
@@ -274,7 +274,7 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec --no-startup-id xss-lock --transfer-sleep-lock -- ~/.config/wallpaper/lock.sh --nofork
 
 ### Autotiling
-exec_always --no-startup-id ~/.config/i3/scripts/autotiling.py
+#exec_always --no-startup-id ~/.config/i3/scripts/autotiling.py
 
 ### i3blocks
 #set $urgentred      #e53935
