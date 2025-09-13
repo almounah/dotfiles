@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+!nvim/
+!nvim/**
+!niri/
+!niri/**
+!swaylock/
+!swaylock/**
+!waybar/
+!waybar/**
+!wofi/
+!wofi/**
+!ghostty/
+!ghostty/**
